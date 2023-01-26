@@ -10,7 +10,7 @@ library stagexl.resources;
 
 import 'dart:async';
 import 'dart:convert';
-import 'dart:html' show HttpRequest;
+
 import 'dart:typed_data';
 import 'dart:web_gl' as gl;
 

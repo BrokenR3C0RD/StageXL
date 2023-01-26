@@ -14,16 +14,7 @@
 library stagexl.engine;
 
 import 'dart:async';
-import 'dart:html'
-    show
-        window,
-        ImageElement,
-        CanvasElement,
-        CanvasRenderingContext2D,
-        CanvasImageSource,
-        ImageData,
-        ImageBitmap,
-        VideoElement;
+
 import 'dart:js_util' as js_util;
 import 'dart:math' as math;
 import 'dart:typed_data';

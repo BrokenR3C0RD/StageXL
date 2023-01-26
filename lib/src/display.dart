@@ -15,8 +15,8 @@ library stagexl.display;
 
 import 'dart:async';
 import 'dart:collection';
-import 'dart:html' as html;
-import 'dart:html' show CanvasElement, ImageElement, VideoElement, ImageBitmap;
+
+
 import 'dart:math' hide Point, Rectangle;
 import 'dart:typed_data';
 

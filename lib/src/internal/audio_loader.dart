@@ -1,7 +1,6 @@
 library stagexl.internal.audio_loader;
 
 import 'dart:async';
-import 'dart:html';
 
 import '../errors.dart';
 

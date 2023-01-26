@@ -2,8 +2,7 @@ library stagexl.internal.environment;
 
 import 'dart:async';
 import 'dart:js' as js;
-import 'dart:html';
-import 'dart:typed_data';
+
 
 final bool autoHiDPI = _checkAutoHiDPI();
 final num devicePixelRatio = _checkDevicePixelRatio();

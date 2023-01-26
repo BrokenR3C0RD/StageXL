@@ -1,9 +1,7 @@
 library stagexl.internal.video_loader;
 
 import 'dart:async';
-import 'dart:html';
 
-import '../errors.dart';
 
 class VideoLoader {
   static final List<String> supportedTypes = _getSupportedTypes();

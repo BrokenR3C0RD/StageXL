@@ -1,0 +1,428 @@
+  error - lib/src/display/bitmap_data.dart:39:39 - Undefined class 'ImageElement'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageElement'. - undefined_class
+  error - lib/src/display/bitmap_data.dart:46:38 - Undefined class 'ImageBitmap'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageBitmap'. - undefined_class
+  error - lib/src/display/bitmap_data.dart:53:39 - Undefined class 'VideoElement'. Try changing the name to the name of an existing class, or creating a class with the name 'VideoElement'. - undefined_class
+  error - lib/src/display/bitmap_data.dart:101:7 - A value of type 'dynamic' can't be returned from the method 'toDataUrl' because it has a return type of 'String'. - return_of_invalid_type
+  error - lib/src/display/bitmap_data_update_batch.dart:59:26 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:65:32 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:66:32 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:67:32 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:68:32 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:146:26 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:147:12 - A value of type 'num' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/bitmap_data_update_batch.dart:147:12 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:148:12 - A value of type 'num' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/bitmap_data_update_batch.dart:148:12 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:149:12 - A value of type 'num' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/bitmap_data_update_batch.dart:149:12 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:150:12 - A value of type 'num' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/bitmap_data_update_batch.dart:150:12 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:153:14 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:154:14 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:155:14 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/bitmap_data_update_batch.dart:156:14 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:56:8 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/display/stage.dart:143:9 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/display/stage.dart:145:9 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/display/stage.dart:148:15 - A value of type 'dynamic' can't be assigned to a variable of type 'int?'. Try changing the type of the variable, or casting the right-hand type to 'int?'. - invalid_assignment
+  error - lib/src/display/stage.dart:149:16 - A value of type 'dynamic' can't be assigned to a variable of type 'int?'. Try changing the type of the variable, or casting the right-hand type to 'int?'. - invalid_assignment
+  error - lib/src/display/stage.dart:163:20 - A value of type 'int?' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/stage.dart:164:21 - A value of type 'int?' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/stage.dart:444:7 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/display/stage.dart:484:18 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/stage.dart:485:17 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/stage.dart:486:19 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/stage.dart:487:20 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/display/stage.dart:615:22 - Undefined class 'html.MouseEvent'. Try changing the name to the name of an existing class, or creating a class with the name 'html.MouseEvent'. - undefined_class
+  error - lib/src/display/stage.dart:622:61 - The argument type 'dynamic' can't be assigned to the parameter type 'Point<num>'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:625:9 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/display/stage.dart:625:23 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/display/stage.dart:628:39 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:673:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:674:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:675:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:692:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:693:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:694:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:711:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:712:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:713:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:729:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:730:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:731:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:792:11 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:793:11 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:794:11 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:812:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:813:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:814:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:825:27 - Undefined class 'html.WheelEvent'. Try changing the name to the name of an existing class, or creating a class with the name 'html.WheelEvent'. - undefined_class
+  error - lib/src/display/stage.dart:828:61 - The argument type 'dynamic' can't be assigned to the parameter type 'Point<num>'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:842:9 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:843:9 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:844:9 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:845:9 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:846:9 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:866:22 - Undefined class 'html.TouchEvent'. Try changing the name to the name of an existing class, or creating a class with the name 'html.TouchEvent'. - undefined_class
+  error - lib/src/display/stage.dart:878:30 - The type 'dynamic' used in the 'for' loop must implement Iterable. - for_in_of_invalid_type
+  error - lib/src/display/stage.dart:882:63 - The argument type 'dynamic' can't be assigned to the parameter type 'Point<num>'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:888:11 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:929:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:930:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:931:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:945:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:946:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:947:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:962:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:963:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:964:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:977:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:978:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:979:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:994:22 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1022:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1023:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1024:13 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1036:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1037:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1038:15 - The argument type 'dynamic' can't be assigned to the parameter type 'bool?'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1049:20 - Undefined class 'html.KeyboardEvent'. Try changing the name to the name of an existing class, or creating a class with the name 'html.KeyboardEvent'. - undefined_class
+  error - lib/src/display/stage.dart:1059:42 - The element type 'dynamic' can't be assigned to the list type 'int'. - list_element_type_not_assignable
+  error - lib/src/display/stage.dart:1083:29 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/display/stage.dart:1086:29 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/display/stage.dart:1089:29 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/display/stage.dart:1092:29 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/display/stage.dart:1095:29 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/display/stage.dart:1102:11 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1104:11 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1105:11 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display/stage.dart:1106:11 - The argument type 'dynamic' can't be assigned to the parameter type 'bool'. - argument_type_not_assignable
+  error - lib/src/display_ex/html_object.dart:36:9 - Undefined class 'Element'. Try changing the name to the name of an existing class, or creating a class with the name 'Element'. - undefined_class
+  error - lib/src/display_ex/html_object.dart:38:14 - Undefined class 'CssStyleDeclaration'. Try changing the name to the name of an existing class, or creating a class with the name 'CssStyleDeclaration'. - undefined_class
+  error - lib/src/drawing/graphics_gradient.dart:16:36 - The name 'CanvasGradient' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'CanvasGradient'. - non_type_as_type_argument
+  error - lib/src/drawing/graphics_gradient.dart:17:27 - The name 'CanvasGradient' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'CanvasGradient'. - non_type_as_type_argument
+  error - lib/src/drawing/graphics_gradient.dart:24:3 - Undefined class 'CanvasGradient'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasGradient'. - undefined_class
+  error - lib/src/drawing/graphics_gradient.dart:145:3 - Undefined class 'CanvasGradient'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasGradient'. - undefined_class
+  error - lib/src/drawing/graphics_gradient.dart:145:36 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/drawing/graphics_gradient.dart:177:22 - The method 'CanvasElement' isn't defined for the type 'GraphicsGradient'. Try correcting the name to the name of an existing method, or defining a method named 'CanvasElement'. - undefined_method
+  error - lib/src/drawing/graphics_pattern.dart:45:47 - The name 'CanvasPattern' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'CanvasPattern'. - non_type_as_type_argument
+  error - lib/src/drawing/graphics_pattern.dart:46:60 - The name 'CanvasPattern' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'CanvasPattern'. - non_type_as_type_argument
+  error - lib/src/drawing/graphics_pattern.dart:53:3 - Undefined class 'CanvasPattern'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasPattern'. - undefined_class
+  error - lib/src/drawing/graphics_pattern.dart:113:3 - Undefined class 'CanvasPattern'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasPattern'. - undefined_class
+  error - lib/src/drawing/graphics_pattern.dart:113:34 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/drawing/internal/graphics_context_canvas.dart:6:9 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/drawing/internal/graphics_context_canvas.dart:166:3 - Undefined class 'CanvasPattern'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasPattern'. - undefined_class
+  error - lib/src/drawing/internal/graphics_context_canvas.dart:169:3 - Undefined class 'CanvasGradient'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasGradient'. - undefined_class
+  error - lib/src/engine/render_context_canvas.dart:4:9 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_context_canvas.dart:5:9 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/engine/render_context_canvas.dart:11:23 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_context_canvas.dart:19:3 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/engine/render_context_canvas.dart:128:26 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_canvas.dart:142:26 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_canvas.dart:156:26 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_canvas.dart:170:26 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:5:9 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_context_webgl.dart:34:22 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_context_webgl.dart:95:38 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:95:53 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:97:35 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:97:57 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:446:19 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:446:42 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:553:15 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/engine/render_context_webgl.dart:553:50 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/engine/render_loop_base.dart:9:30 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_loop_base.dart:9:30 - Undefined name 'window'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/engine/render_loop_base.dart:12:26 - A value of type 'dynamic' can't be assigned to a variable of type 'num'. Try changing the type of the variable, or casting the right-hand type to 'num'. - invalid_assignment
+  error - lib/src/engine/render_loop_base.dart:17:11 - The argument type 'dynamic' can't be assigned to the parameter type 'double'. - argument_type_not_assignable
+  error - lib/src/engine/render_texture.dart:11:3 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_texture.dart:33:25 - The method 'CanvasElement' isn't defined for the type 'RenderTexture'. Try correcting the name to the name of an existing method, or defining a method named 'CanvasElement'. - undefined_method
+  error - lib/src/engine/render_texture.dart:42:34 - Undefined class 'ImageElement'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageElement'. - undefined_class
+  error - lib/src/engine/render_texture.dart:43:14 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:44:15 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:48:33 - Undefined class 'ImageBitmap'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageBitmap'. - undefined_class
+  error - lib/src/engine/render_texture.dart:49:14 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:50:15 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:54:35 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_texture.dart:55:14 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:56:15 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:60:34 - Undefined class 'VideoElement'. Try changing the name to the name of an existing class, or creating a class with the name 'VideoElement'. - undefined_class
+  error - lib/src/engine/render_texture.dart:61:9 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/engine/render_texture.dart:62:14 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:63:15 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/engine/render_texture.dart:77:3 - Undefined class 'CanvasImageSource'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasImageSource'. - undefined_class
+  error - lib/src/engine/render_texture.dart:78:20 - The name 'CanvasImageSource' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'CanvasImageSource'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:78:57 - The name 'CanvasImageSource' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'CanvasImageSource'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:89:3 - Undefined class 'CanvasElement'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasElement'. - undefined_class
+  error - lib/src/engine/render_texture.dart:90:20 - The name 'CanvasElement' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'CanvasElement'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:91:25 - The name 'CanvasElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'CanvasElement'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:92:27 - The name 'ImageElement' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageElement'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:93:39 - The name 'ImageElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageElement'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:94:27 - The method 'CanvasElement' isn't defined for the type 'RenderTexture'. Try correcting the name to the name of an existing method, or defining a method named 'CanvasElement'. - undefined_method
+  error - lib/src/engine/render_texture.dart:97:27 - The name 'ImageBitmap' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:98:32 - The name 'ImageBitmap' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:99:27 - The method 'CanvasElement' isn't defined for the type 'RenderTexture'. Try correcting the name to the name of an existing method, or defining a method named 'CanvasElement'. - undefined_method
+  error - lib/src/engine/render_texture.dart:103:26 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/engine/render_texture.dart:117:3 - Undefined class 'ImageBitmap'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageBitmap'. - undefined_class
+  error - lib/src/engine/render_texture.dart:118:20 - The name 'ImageBitmap' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:118:51 - The name 'ImageBitmap' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:208:20 - The name 'ImageBitmap' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:209:19 - The name 'ImageBitmap' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:223:20 - The name 'VideoElement' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'VideoElement'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:242:27 - The method 'CanvasElement' isn't defined for the type 'RenderTexture'. Try correcting the name to the name of an existing method, or defining a method named 'CanvasElement'. - undefined_method
+  error - lib/src/engine/render_texture.dart:310:19 - The method 'CanvasElement' isn't defined for the type 'RenderTexture'. Try correcting the name to the name of an existing method, or defining a method named 'CanvasElement'. - undefined_method
+  error - lib/src/engine/render_texture.dart:337:19 - The name 'VideoElement' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'VideoElement'. - type_test_with_undefined_name
+  error - lib/src/engine/render_texture.dart:338:38 - The name 'VideoElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'VideoElement'. - cast_to_non_type
+  error - lib/src/engine/render_texture.dart:341:28 - A value of type 'dynamic' can't be assigned to a variable of type 'num'. Try changing the type of the variable, or casting the right-hand type to 'num'. - invalid_assignment
+  error - lib/src/engine/render_texture_quad.dart:322:3 - Undefined class 'ImageData'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageData'. - undefined_class
+  error - lib/src/engine/render_texture_quad.dart:328:3 - Undefined class 'ImageData'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageData'. - undefined_class
+  error - lib/src/engine/render_texture_quad.dart:334:21 - Undefined class 'ImageData'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageData'. - undefined_class
+  error - lib/src/filters/blur_filter.dart:103:22 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:105:25 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:106:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:106:29 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:106:37 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:107:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:107:29 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:107:37 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:108:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:108:29 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:108:37 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:109:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:109:29 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:109:37 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:112:25 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:113:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:113:18 - The argument type 'num' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:113:22 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:113:34 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:114:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:114:18 - The argument type 'num' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:114:22 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:114:34 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:115:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:115:18 - The argument type 'num' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:115:22 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:115:34 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:116:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:116:18 - The argument type 'num' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:116:22 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:116:34 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/blur_filter.dart:119:24 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/color_matrix_filter.dart:238:28 - A value of type 'dynamic' can't be assigned to a variable of type 'List<int>'. Try changing the type of the variable, or casting the right-hand type to 'List<int>'. - invalid_assignment
+  error - lib/src/filters/displacement_map_filter.dart:68:31 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:72:18 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:78:21 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:78:38 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/filters/displacement_map_filter.dart:79:21 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:79:39 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/filters/displacement_map_filter.dart:80:42 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:80:52 - The operator '<<' isn't defined for the type 'num'. Try defining the operator '<<'. - undefined_operator
+  error - lib/src/filters/displacement_map_filter.dart:82:20 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:84:20 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:85:46 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:85:65 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:86:44 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:86:54 - The operator '<<' isn't defined for the type 'num'. Try defining the operator '<<'. - undefined_operator
+  error - lib/src/filters/displacement_map_filter.dart:87:44 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/displacement_map_filter.dart:87:54 - The operator '<<' isn't defined for the type 'num'. Try defining the operator '<<'. - undefined_operator
+  error - lib/src/filters/displacement_map_filter.dart:88:15 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/filters/displacement_map_filter.dart:89:15 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/filters/drop_shadow_filter.dart:123:28 - A value of type 'dynamic' can't be assigned to a variable of type 'List<int>'. Try changing the type of the variable, or casting the right-hand type to 'List<int>'. - invalid_assignment
+  error - lib/src/filters/drop_shadow_filter.dart:136:27 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:136:34 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:138:25 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:139:40 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:139:48 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:142:25 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:143:18 - The argument type 'num' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:143:22 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:143:45 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:147:37 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/drop_shadow_filter.dart:151:34 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:119:25 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:120:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:120:40 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:120:48 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:123:25 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:124:12 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:124:18 - The argument type 'num' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:124:22 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:124:45 - The argument type 'dynamic' can't be assigned to the parameter type 'int'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:128:24 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:128:37 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:130:16 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:132:21 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/glow_filter.dart:132:34 - The argument type 'dynamic' can't be assigned to the parameter type 'List<int>'. - argument_type_not_assignable
+  error - lib/src/filters/tint_filter.dart:42:28 - A value of type 'dynamic' can't be assigned to a variable of type 'List<int>'. Try changing the type of the variable, or casting the right-hand type to 'List<int>'. - invalid_assignment
+  error - lib/src/internal/audio_loader.dart:10:9 - Undefined class 'AudioElement'. Try changing the name to the name of an existing class, or creating a class with the name 'AudioElement'. - undefined_class
+  error - lib/src/internal/audio_loader.dart:10:30 - The method 'AudioElement' isn't defined for the type 'AudioLoader'. Try correcting the name to the name of an existing method, or defining a method named 'AudioElement'. - undefined_method
+  error - lib/src/internal/audio_loader.dart:12:19 - The name 'AudioElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'AudioElement'. - non_type_as_type_argument
+  error - lib/src/internal/audio_loader.dart:12:56 - The name 'AudioElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'AudioElement'. - non_type_as_type_argument
+  error - lib/src/internal/audio_loader.dart:14:27 - The name 'Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Event'. - non_type_as_type_argument
+  error - lib/src/internal/audio_loader.dart:15:27 - The name 'Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Event'. - non_type_as_type_argument
+  error - lib/src/internal/audio_loader.dart:23:5 - Undefined name 'document'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/audio_loader.dart:29:30 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/internal/audio_loader.dart:30:28 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/internal/audio_loader.dart:34:10 - The name 'AudioElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'AudioElement'. - non_type_as_type_argument
+  error - lib/src/internal/audio_loader.dart:38:24 - Undefined class 'Event'. Try changing the name to the name of an existing class, or creating a class with the name 'Event'. - undefined_class
+  error - lib/src/internal/audio_loader.dart:44:22 - Undefined class 'Event'. Try changing the name to the name of an existing class, or creating a class with the name 'Event'. - undefined_class
+  error - lib/src/internal/audio_loader.dart:45:32 - The name 'AudioElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'AudioElement'. - cast_to_non_type
+  error - lib/src/internal/audio_loader.dart:72:5 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/audio_loader.dart:73:22 - The method 'FileReader' isn't defined for the type 'AudioLoader'. Try correcting the name to the name of an existing method, or defining a method named 'FileReader'. - undefined_method
+  error - lib/src/internal/audio_loader.dart:74:48 - The name 'Blob' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'Blob'. - cast_to_non_type
+  error - lib/src/internal/audio_loader.dart:94:19 - The method 'AudioElement' isn't defined for the type 'AudioLoader'. Try correcting the name to the name of an existing method, or defining a method named 'AudioElement'. - undefined_method
+  error - lib/src/internal/environment.dart:17:33 - A value of type 'dynamic' can't be returned from the function '_checkDevicePixelRatio' because it has a return type of 'num'. - return_of_invalid_type
+  error - lib/src/internal/environment.dart:17:33 - Undefined name 'window'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/environment.dart:22:14 - Undefined name 'window'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/environment.dart:31:26 - The argument type 'dynamic' can't be assigned to the parameter type 'bool Function(String)'. - argument_type_not_assignable
+  error - lib/src/internal/environment.dart:37:20 - The function 'Int32List' isn't defined. Try importing the library that defines 'Int32List', correcting the name to the name of an existing function, or defining a function named 'Int32List'. - undefined_function
+  error - lib/src/internal/environment.dart:47:18 - Undefined name 'window'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/environment.dart:52:31 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/internal/environment.dart:52:54 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/internal/environment.dart:62:15 - The function 'ImageElement' isn't defined. Try importing the library that defines 'ImageElement', correcting the name to the name of an existing function, or defining a function named 'ImageElement'. - undefined_function
+  error - lib/src/internal/environment.dart:78:12 - A value of type 'dynamic' can't be returned from the function '_checkTouchEventSupport' because it has a return type of 'bool'. - return_of_invalid_type
+  error - lib/src/internal/environment.dart:78:12 - Undefined name 'TouchEvent'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/image_bitmap_loader.dart:10:32 - The name 'ImageBitmap' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'ImageBitmap'. - non_type_as_type_argument
+  error - lib/src/internal/image_bitmap_loader.dart:11:3 - Undefined class 'HttpRequest'. Try changing the name to the name of an existing class, or creating a class with the name 'HttpRequest'. - undefined_class
+  error - lib/src/internal/image_bitmap_loader.dart:22:32 - The method 'HttpRequest' isn't defined for the type 'ImageBitmapLoader'. Try correcting the name to the name of an existing method, or defining a method named 'HttpRequest'. - undefined_method
+  error - lib/src/internal/image_bitmap_loader.dart:25:35 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/image_bitmap_loader.dart:27:46 - The name 'Blob' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'Blob'. - cast_to_non_type
+  error - lib/src/internal/image_bitmap_loader.dart:32:29 - The method 'callMethod' isn't defined for the type 'ImageBitmapLoader'. Try correcting the name to the name of an existing method, or defining a method named 'callMethod'. - undefined_method
+  error - lib/src/internal/image_bitmap_loader.dart:32:40 - Undefined name 'window'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/image_bitmap_loader.dart:34:23 - The method 'promiseToFuture' isn't defined for the type 'ImageBitmapLoader'. Try correcting the name to the name of an existing method, or defining a method named 'promiseToFuture'. - undefined_method
+  error - lib/src/internal/image_bitmap_loader.dart:34:39 - The name 'ImageBitmap' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'ImageBitmap'. - non_type_as_type_argument
+  error - lib/src/internal/image_bitmap_loader.dart:52:10 - The name 'ImageBitmap' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'ImageBitmap'. - non_type_as_type_argument
+  error - lib/src/internal/image_loader.dart:8:9 - Undefined class 'ImageElement'. Try changing the name to the name of an existing class, or creating a class with the name 'ImageElement'. - undefined_class
+  error - lib/src/internal/image_loader.dart:8:30 - The method 'ImageElement' isn't defined for the type 'ImageLoader'. Try correcting the name to the name of an existing method, or defining a method named 'ImageElement'. - undefined_method
+  error - lib/src/internal/image_loader.dart:9:19 - The name 'ImageElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'ImageElement'. - non_type_as_type_argument
+  error - lib/src/internal/image_loader.dart:9:56 - The name 'ImageElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'ImageElement'. - non_type_as_type_argument
+  error - lib/src/internal/image_loader.dart:12:27 - The name 'Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Event'. - non_type_as_type_argument
+  error - lib/src/internal/image_loader.dart:13:27 - The name 'Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Event'. - non_type_as_type_argument
+  error - lib/src/internal/image_loader.dart:16:27 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/internal/image_loader.dart:17:28 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/internal/image_loader.dart:32:10 - The name 'ImageElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'ImageElement'. - non_type_as_type_argument
+  error - lib/src/internal/image_loader.dart:45:21 - Undefined class 'Event'. Try changing the name to the name of an existing class, or creating a class with the name 'Event'. - undefined_class
+  error - lib/src/internal/image_loader.dart:51:22 - Undefined class 'Event'. Try changing the name to the name of an existing class, or creating a class with the name 'Event'. - undefined_class
+  error - lib/src/internal/image_loader.dart:54:30 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/internal/image_loader.dart:54:30 - The method 'LoadError' isn't defined for the type 'ImageLoader'. Try correcting the name to the name of an existing method, or defining a method named 'LoadError'. - undefined_method
+  error - lib/src/internal/video_loader.dart:9:9 - Undefined class 'VideoElement'. Try changing the name to the name of an existing class, or creating a class with the name 'VideoElement'. - undefined_class
+  error - lib/src/internal/video_loader.dart:9:30 - The method 'VideoElement' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'VideoElement'. - undefined_method
+  error - lib/src/internal/video_loader.dart:10:9 - Undefined class 'AggregateError'. Try changing the name to the name of an existing class, or creating a class with the name 'AggregateError'. - undefined_class
+  error - lib/src/internal/video_loader.dart:10:41 - The method 'AggregateError' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'AggregateError'. - undefined_method
+  error - lib/src/internal/video_loader.dart:11:19 - The name 'VideoElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'VideoElement'. - non_type_as_type_argument
+  error - lib/src/internal/video_loader.dart:11:56 - The name 'VideoElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'VideoElement'. - non_type_as_type_argument
+  error - lib/src/internal/video_loader.dart:13:27 - The name 'Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Event'. - non_type_as_type_argument
+  error - lib/src/internal/video_loader.dart:14:27 - The name 'Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'Event'. - non_type_as_type_argument
+  error - lib/src/internal/video_loader.dart:21:30 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/internal/video_loader.dart:22:28 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/internal/video_loader.dart:29:10 - The name 'VideoElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'VideoElement'. - non_type_as_type_argument
+  error - lib/src/internal/video_loader.dart:33:24 - Undefined class 'Event'. Try changing the name to the name of an existing class, or creating a class with the name 'Event'. - undefined_class
+  error - lib/src/internal/video_loader.dart:39:22 - Undefined class 'Event'. Try changing the name to the name of an existing class, or creating a class with the name 'Event'. - undefined_class
+  error - lib/src/internal/video_loader.dart:40:32 - The name 'VideoElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'VideoElement'. - cast_to_non_type
+  error - lib/src/internal/video_loader.dart:41:23 - The method 'LoadError' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'LoadError'. - undefined_method
+  error - lib/src/internal/video_loader.dart:59:9 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/internal/video_loader.dart:60:25 - The method 'LoadError' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'LoadError'. - undefined_method
+  error - lib/src/internal/video_loader.dart:63:30 - The argument type 'dynamic' can't be assigned to the parameter type 'Object'. - argument_type_not_assignable
+  error - lib/src/internal/video_loader.dart:67:5 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/internal/video_loader.dart:68:22 - The method 'FileReader' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'FileReader'. - undefined_method
+  error - lib/src/internal/video_loader.dart:69:48 - The name 'Blob' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'Blob'. - cast_to_non_type
+  error - lib/src/internal/video_loader.dart:73:25 - The method 'LoadError' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'LoadError'. - undefined_method
+  error - lib/src/internal/video_loader.dart:89:19 - The method 'VideoElement' isn't defined for the type 'VideoLoader'. Try correcting the name to the name of an existing method, or defining a method named 'VideoElement'. - undefined_method
+  error - lib/src/media/implementation/audio_element_sound.dart:4:9 - Undefined class 'AudioElement'. Try changing the name to the name of an existing class, or creating a class with the name 'AudioElement'. - undefined_class
+  error - lib/src/media/implementation/audio_element_sound.dart:5:13 - The name 'AudioElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'AudioElement'. - non_type_as_type_argument
+  error - lib/src/media/implementation/audio_element_sound.dart:7:23 - Undefined class 'AudioElement'. Try changing the name to the name of an existing class, or creating a class with the name 'AudioElement'. - undefined_class
+  error - lib/src/media/implementation/audio_element_sound.dart:58:21 - A value of type 'dynamic' can't be returned from the function 'length' because it has a return type of 'num'. - return_of_invalid_type
+  error - lib/src/media/implementation/audio_element_sound.dart:64:9 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/media/implementation/audio_element_sound.dart:66:26 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/media/implementation/audio_element_sound.dart:76:10 - The name 'AudioElement' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'AudioElement'. - non_type_as_type_argument
+  error - lib/src/media/implementation/audio_element_sound.dart:85:55 - The name 'AudioElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'AudioElement'. - cast_to_non_type
+  error - lib/src/media/implementation/audio_element_sound.dart:94:29 - Undefined class 'AudioElement'. Try changing the name to the name of an existing class, or creating a class with the name 'AudioElement'. - undefined_class
+  error - lib/src/media/implementation/audio_element_sound.dart:98:22 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/implementation/audio_element_sound.dart:100:26 - The name 'AudioElement' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'AudioElement'. - type_test_with_undefined_name
+  error - lib/src/media/implementation/audio_element_sound_channel.dart:6:3 - Undefined class 'AudioElement'. Try changing the name to the name of an existing class, or creating a class with the name 'AudioElement'. - undefined_class
+  error - lib/src/media/implementation/audio_element_sound_channel.dart:49:14 - A value of type 'dynamic' can't be returned from the function 'position' because it has a return type of 'num'. - return_of_invalid_type
+  error - lib/src/media/implementation/audio_element_sound_channel.dart:133:24 - Undefined class 'AudioElement'. Try changing the name to the name of an existing class, or creating a class with the name 'AudioElement'. - undefined_class
+  error - lib/src/media/implementation/web_audio_api_sound.dart:20:19 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/media/implementation/web_audio_api_sound_channel.dart:9:22 - The name 'html.Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'html.Event'. - non_type_as_type_argument
+  error - lib/src/media/implementation/web_audio_api_sound_channel.dart:133:17 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/sound_mixer.dart:81:16 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/media/sound_mixer.dart:83:9 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/media/sound_mixer.dart:84:11 - Conditions must have a static type of 'bool'. Try changing the condition. - non_bool_condition
+  error - lib/src/media/sound_mixer.dart:89:9 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/media/sound_mixer.dart:89:34 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/media/sound_mixer.dart:89:57 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/media/sound_mixer.dart:90:11 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/media/sound_mixer.dart:90:34 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/media/sound_mixer.dart:90:57 - The operands of the operator '||' must be assignable to 'bool'. - non_bool_operand
+  error - lib/src/media/video.dart:41:9 - Undefined class 'VideoElement'. Try changing the name to the name of an existing class, or creating a class with the name 'VideoElement'. - undefined_class
+  error - lib/src/media/video.dart:92:59 - The name 'VideoElement' isn't a type, so it can't be used in an 'as' expression. Try changing the name to the name of an existing type, or creating a type with the name 'VideoElement'. - cast_to_non_type
+  error - lib/src/media/video.dart:94:29 - The name 'html.Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'html.Event'. - non_type_as_type_argument
+  error - lib/src/media/video.dart:95:29 - The name 'html.Event' isn't a type, so it can't be used as a type argument. Try correcting the name to an existing type, or defining a type named 'html.Event'. - non_type_as_type_argument
+  error - lib/src/media/video.dart:97:20 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/video.dart:106:18 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/video.dart:114:29 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/media/video.dart:115:27 - A value of type 'dynamic' can't be assigned to a variable of type 'StreamSubscription<dynamic>'. Try changing the type of the variable, or casting the right-hand type to 'StreamSubscription<dynamic>'. - invalid_assignment
+  error - lib/src/media/video.dart:137:26 - A negation operand must have a static type of 'bool'. Try changing the operand to the '!' operator. - non_bool_negation_expression
+  error - lib/src/media/video.dart:141:21 - A value of type 'dynamic' can't be returned from the function 'muted' because it has a return type of 'bool'. - return_of_invalid_type
+  error - lib/src/media/video.dart:149:21 - A value of type 'dynamic' can't be returned from the function 'volume' because it has a return type of 'num'. - return_of_invalid_type
+  error - lib/src/media/video.dart:157:26 - A value of type 'dynamic' can't be returned from the function 'currentTime' because it has a return type of 'num'. - return_of_invalid_type
+  error - lib/src/media/video.dart:165:17 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/video.dart:184:17 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/video.dart:188:17 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/media/video.dart:192:16 - Undefined class 'html.Event'. Try changing the name to the name of an existing class, or creating a class with the name 'html.Event'. - undefined_class
+  error - lib/src/resources/resource_manager.dart:162:9 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/resources/resource_manager.dart:165:41 - The argument type 'dynamic' can't be assigned to the parameter type 'Future<dynamic>'. - argument_type_not_assignable
+  error - lib/src/resources/sound_sprite.dart:24:35 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/resources/sound_sprite.dart:25:30 - The argument type 'dynamic' can't be assigned to the parameter type 'String'. - argument_type_not_assignable
+  error - lib/src/resources/texture_atlas_loader.dart:35:33 - A value of type 'dynamic' can't be returned from the method 'getSource' because it has a return type of 'Future<String>'. - return_of_invalid_type
+  error - lib/src/resources/texture_atlas_loader.dart:35:33 - Undefined name 'HttpRequest'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/font_style_metrics.dart:21:18 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/font_style_metrics.dart:22:19 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/font_style_metrics.dart:23:17 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/font_style_metrics.dart:33:5 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/font_style_metrics.dart:37:16 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/text/font_style_metrics.dart:39:16 - A value of type 'dynamic' can't be assigned to a variable of type 'int'. Try changing the type of the variable, or casting the right-hand type to 'int'. - invalid_assignment
+  error - lib/src/text/text_field.dart:312:27 - Undefined name '_dummyCanvasContext'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:342:23 - A value of type 'dynamic' can't be assigned to a variable of type 'double'. Try changing the type of the variable, or casting the right-hand type to 'double'. - invalid_assignment
+  error - lib/src/text/text_field.dart:389:32 - A value of type 'dynamic' can't be assigned to a variable of type 'num'. Try changing the type of the variable, or casting the right-hand type to 'num'. - invalid_assignment
+  error - lib/src/text/text_field.dart:397:43 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/text/text_field.dart:478:15 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - lib/src/text/text_field.dart:549:20 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/text/text_field.dart:621:3 - Undefined class 'CanvasGradient'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasGradient'. - undefined_class
+  error - lib/src/text/text_field.dart:622:7 - Undefined class 'CanvasRenderingContext2D'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasRenderingContext2D'. - undefined_class
+  error - lib/src/text/text_field.dart:630:5 - Undefined class 'CanvasGradient'. Try changing the name to the name of an existing class, or creating a class with the name 'CanvasGradient'. - undefined_class
+  error - lib/src/text/text_field.dart:665:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:665:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:665:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:665:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:674:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:674:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:674:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:674:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:680:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:680:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:680:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:680:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:686:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:686:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:686:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:686:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:693:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:693:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:693:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:693:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:706:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:706:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:706:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:706:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:713:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:713:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:713:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:713:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:726:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:726:14 - Case expressions must be constant. - non_constant_case_expression
+  error - lib/src/text/text_field.dart:726:14 - The switch case expression type 'dynamic' must be a subtype of the switch expression type 'int'. - case_expression_type_is_not_switch_expression_subtype
+  error - lib/src/text/text_field.dart:726:14 - Undefined name 'html'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:773:27 - Undefined name '_dummyCanvasContext'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - lib/src/text/text_field.dart:792:37 - The argument type 'dynamic' can't be assigned to the parameter type 'num'. - argument_type_not_assignable
+  error - test/util/image_bitmap_test.dart:24:21 - The name 'ImageBitmap' isn't defined, so it can't be used in an 'is' expression. Try changing the name to the name of an existing type, or creating a type with the name 'ImageBitmap'. - type_test_with_undefined_name

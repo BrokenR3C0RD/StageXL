@@ -1,9 +1,7 @@
 library stagexl.internal.image_loader;
 
 import 'dart:async';
-import 'dart:html';
 
-import '../errors.dart';
 import 'environment.dart' as env;
 
 class ImageLoader {
